@@ -1,4 +1,4 @@
-# Dispatching an Initial Action for Setup
+#  Dispatching an Initial Action for Setup
 
 ## Objectives
 
